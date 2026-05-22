@@ -1,0 +1,7 @@
+{
+    "global_threshold": 80,
+    "network_threshold": 100,
+    "service_thresholds": {
+        "OnlineBoutique": 200
+    }
+}
