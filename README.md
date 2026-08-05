@@ -37,5 +37,12 @@ python main.py
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
-@TBD
+@inproceedings{aharon2026uncovering,
+  title={Uncovering Microservice Faults: A Temporal Graph Approach to Root Cause Analysis},
+  author={Aharon, Udi and Dvir, Amit and Dubin, Ran and Marbel, Revital and Hajaj, Chen},
+  booktitle={ICC 2026-IEEE International Conference on Communications},
+  pages={1--6},
+  year={2026},
+  organization={IEEE}
+}
 ```
